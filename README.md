@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantcode04&label=Profile%20views&color=0e75b6&style=flat" alt="vedantcode04" /> </p>
 <p align="left"> <img src="https://github.com/VedantCode04/VedantCode04/blob/main/profile.jpeg" alt="vedantcode04" /> </p>
 
-- 🔭 I’m currently working on **a Personal Portfolio page**
+- 🔭 I’m currently working on **Social media webiste**
 
 - 🌱 I’m currently learning **React.js and Data Structure and Algorithms**
 
